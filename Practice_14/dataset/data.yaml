@@ -1,0 +1,12 @@
+train: C:\Users\slava\PycharmProjects\mmad2\Practice_14\dataset\train\images
+val: C:\Users\slava\PycharmProjects\mmad2\Practice_14\dataset\valid\images
+
+nc: 1
+names: ['Christmas-tree']
+
+roboflow:
+  workspace: practicas-djpmv
+  project: christmas-tree-wvvio
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/practicas-djpmv/christmas-tree-wvvio/dataset/1
